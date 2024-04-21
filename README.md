@@ -2,7 +2,7 @@
 
 
 
-Goal: to predict the accommodation type for a trip based on various traveler and trip features.
+to predict the accommodation type for a trip based on various traveler and trip features.
 
 
 ## Introduction
