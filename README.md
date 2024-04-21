@@ -2,7 +2,7 @@
 
 
 
-Goal :The goal of the project is to predict the accommodation type for a trip based on various traveler and trip features.
+Goal : The goal of the project is to predict the accommodation type for a trip based on various traveler and trip features.
 
 
 ## Introduction
